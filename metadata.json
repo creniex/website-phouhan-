@@ -1,0 +1,6 @@
+{
+  "name": "Chouhan Palace",
+  "description": "Experience the pinnacle of warmth and personalized care in the heart of Katihar. Where traditional Indian hospitality meets contemporary elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
